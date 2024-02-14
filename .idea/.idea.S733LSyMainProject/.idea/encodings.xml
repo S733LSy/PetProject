@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/AI/Characters/Turret.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Actors/Equipment/EquipableItem.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Actors/Projectiles/ExplosiveProjectile.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Actors/Projectiles/ExplosiveProjectile.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Characters/Animations/SMBaseCharacterAnimInstance.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Characters/SMBaseCharacter.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Characters/SMPlayerCharacter.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Components/CharacterComponents/CharacterAttributeComponent.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Components/CharacterComponents/CharacterAttributeComponent.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Components/CharacterComponents/CharacterEquipmentComponent.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Components/ExplosionComponent/ExplosionComponent.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/Components/MovementComponents/SMBaseCharacterMovementComponent.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Source/S733LSyMainProject/UI/Widget/World/SMAttributeProgressBar.h" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
