@@ -58,7 +58,7 @@ void AAITurretController::OnTakeDamage(AActor* DamagedActor, float Damage, const
 		return;
 	}
 
-	CachedTurret->TakeDamage(Damage);
+	CachedTurret->TakeDamageTurret(Damage);
 
 	if (CachedTurret->GetHealth() <= 0.0f)
 	{

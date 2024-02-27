@@ -102,7 +102,7 @@ void ATurret::DeathEvent()
 	OnRep_DeathEvent();
 }
 
-void ATurret::TakeDamage(float Damage)
+void ATurret::TakeDamageTurret(float Damage)
 {
 	Health = Health - Damage;
 }

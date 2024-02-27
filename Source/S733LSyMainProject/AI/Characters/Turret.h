@@ -45,7 +45,7 @@ public:
 
 	void DeathEvent();
 
-	virtual void TakeDamage(float Damage);
+	virtual void TakeDamageTurret(float Damage);
 
 	UPROPERTY(ReplicatedUsing=OnRep_CurrentTarget)
 	AActor* CurrentTarget = nullptr;

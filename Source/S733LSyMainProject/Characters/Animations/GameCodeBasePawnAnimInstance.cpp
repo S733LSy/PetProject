@@ -3,7 +3,7 @@
 
 #include "GameCodeBasePawnAnimInstance.h"
 #include "../S733LSyMainProjectBasePawn.h"
-#include "c:\users\nikol\perforce\s733lsy_main_workspace\ue4\s733lsy_main_project\Source\S733LSyMainProject\Components\MovementComponents\S733LSyPawnMovementComponent.h"
+#include "Components/MovementComponents/S733LSyPawnMovementComponent.h"
 
 void UGameCodeBasePawnAnimInstance::NativeBeginPlay()
 {
